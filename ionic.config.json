@@ -1,0 +1,7 @@
+{
+  "name": "meus-pix-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
